@@ -1,0 +1,22 @@
+h2 -lato bold font size 120
+
+p- lato regular, font size 20px
+
+color: 15a4fa
+
+
+
+
+
+<i class="fa fa-mobile" aria-hidden="true"></i>
+					<h2>Optimized for all devices</h2>
+					<p>STRICT has been designed to be fully responsive on all devices</p>
+		
+
+					<i class="fa fa-paper-plane-o" aria-hidden="true"></i>
+					<h2></h2>
+					<p></p>
+
+					<i class="fa fa-bullhorn" aria-hidden="true"></i>
+					<h2></h2>
+					<p></p>
