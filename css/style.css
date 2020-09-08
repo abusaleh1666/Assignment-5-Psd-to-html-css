@@ -203,6 +203,7 @@ header{
     width: 45%;
     padding: 10px;
     margin: 0 auto;
+    margin-bottom: 100px;
 }
 
 .form-control{
@@ -226,7 +227,7 @@ header{
     width: 100%;
     float: left;
     color: white;
-    padding: 5px 12px;
+    padding: 5px 12px;	
 }
 
 
